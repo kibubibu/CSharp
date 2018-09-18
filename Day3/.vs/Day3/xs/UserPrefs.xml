@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{EE1A6D84-4217-42B2-ADEE-EADB1B439260}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day3/Matematika.cs">
+    <Files>
+      <File FileName="Day3/Program.cs" Line="14" Column="30" />
+      <File FileName="Day3/Matematika.cs" Line="80" Column="32" />
+      <File FileName="../Day2new/Day2new/Program.cs" Line="100" Column="9" />
+      <File FileName="../../Documents/GitHub/rcs/CSharp/Day1/Day1/Program.cs" Line="21" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

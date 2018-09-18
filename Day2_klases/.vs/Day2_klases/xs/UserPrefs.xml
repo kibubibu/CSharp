@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0E837C20-6951-4CB0-A1E2-4FEE9C5E7787}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Day2/Day2/Program.cs">
+    <Files>
+      <File FileName="Day2_klases/Program.cs" Line="12" Column="32" />
+      <File FileName="Day2_klases/KlasesPiemers.cs" Line="9" Column="23" />
+      <File FileName="../Day2/Day2/Program.cs" Line="25" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day2__klases PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

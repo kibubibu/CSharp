@@ -1,0 +1,11 @@
+/Users/ilva/Projects/Day9/Day9/obj/Debug/netcoreapp2.1/Day9.csprojAssemblyReference.cache
+/Users/ilva/Projects/Day9/Day9/obj/Debug/netcoreapp2.1/Day9.csproj.CoreCompileInputs.cache
+/Users/ilva/Projects/Day9/Day9/obj/Debug/netcoreapp2.1/Day9.AssemblyInfoInputs.cache
+/Users/ilva/Projects/Day9/Day9/obj/Debug/netcoreapp2.1/Day9.AssemblyInfo.cs
+/Users/ilva/Projects/Day9/Day9/bin/Debug/netcoreapp2.1/Day9.deps.json
+/Users/ilva/Projects/Day9/Day9/bin/Debug/netcoreapp2.1/Day9.runtimeconfig.json
+/Users/ilva/Projects/Day9/Day9/bin/Debug/netcoreapp2.1/Day9.runtimeconfig.dev.json
+/Users/ilva/Projects/Day9/Day9/bin/Debug/netcoreapp2.1/Day9.dll
+/Users/ilva/Projects/Day9/Day9/bin/Debug/netcoreapp2.1/Day9.pdb
+/Users/ilva/Projects/Day9/Day9/obj/Debug/netcoreapp2.1/Day9.dll
+/Users/ilva/Projects/Day9/Day9/obj/Debug/netcoreapp2.1/Day9.pdb

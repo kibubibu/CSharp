@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{BB121D61-028A-4745-8435-B88DBB786319}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day8/PirmaisPiemers.cs">
+    <Files>
+      <File FileName="Day8/Program.cs" Line="19" Column="53" />
+      <File FileName="Day8/PirmaisPiemers.cs" Line="55" Column="1" />
+      <File FileName="../Day3/Day3/Matematika.cs" Line="55" Column="1" />
+      <File FileName="../Day6/Day6/EmptyClass.cs" Line="81" Column="1" />
+      <File FileName="../Day7/Day7/Uzdevumi.cs" Line="2" Column="15" />
+      <File FileName="../Day6new/Day6new/Piemeri.cs" Line="71" Column="1" />
+      <File FileName="../Day4/Day4/Uzdevums.cs" Line="56" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

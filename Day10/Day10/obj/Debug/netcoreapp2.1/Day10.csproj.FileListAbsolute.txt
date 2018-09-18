@@ -1,0 +1,11 @@
+/Users/ilva/Projects/Day10/Day10/bin/Debug/netcoreapp2.1/Day10.deps.json
+/Users/ilva/Projects/Day10/Day10/bin/Debug/netcoreapp2.1/Day10.runtimeconfig.json
+/Users/ilva/Projects/Day10/Day10/bin/Debug/netcoreapp2.1/Day10.runtimeconfig.dev.json
+/Users/ilva/Projects/Day10/Day10/bin/Debug/netcoreapp2.1/Day10.dll
+/Users/ilva/Projects/Day10/Day10/bin/Debug/netcoreapp2.1/Day10.pdb
+/Users/ilva/Projects/Day10/Day10/obj/Debug/netcoreapp2.1/Day10.csprojAssemblyReference.cache
+/Users/ilva/Projects/Day10/Day10/obj/Debug/netcoreapp2.1/Day10.csproj.CoreCompileInputs.cache
+/Users/ilva/Projects/Day10/Day10/obj/Debug/netcoreapp2.1/Day10.AssemblyInfoInputs.cache
+/Users/ilva/Projects/Day10/Day10/obj/Debug/netcoreapp2.1/Day10.AssemblyInfo.cs
+/Users/ilva/Projects/Day10/Day10/obj/Debug/netcoreapp2.1/Day10.dll
+/Users/ilva/Projects/Day10/Day10/obj/Debug/netcoreapp2.1/Day10.pdb

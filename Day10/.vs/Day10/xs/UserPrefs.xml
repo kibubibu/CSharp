@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{09439325-D9CF-455E-9E90-F02150EBD657}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Day7/Day7/Uzdevumi.cs">
+    <Files>
+      <File FileName="Day10/Program.cs" Line="9" Column="42" />
+      <File FileName="Day10/Uzdevums.cs" Line="16" Column="13" />
+      <File FileName="../Day6new/Day6new/Piemeri.cs" Line="90" Column="1" />
+      <File FileName="../Day8/Day8/PirmaisPiemers.cs" Line="52" Column="1" />
+      <File FileName="../Day9/Day9/Trenini.cs" Line="52" Column="1" />
+      <File FileName="../Day3/Day3/Matematika.cs" Line="89" Column="1" />
+      <File FileName="../Day6/Day6/EmptyClass.cs" Line="56" Column="1" />
+      <File FileName="../Day7/Day7/Uzdevumi.cs" Line="47" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

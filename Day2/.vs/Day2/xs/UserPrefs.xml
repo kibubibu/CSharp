@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D0CFF5F4-BAB5-4AEA-90F4-4C1DC69120E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day2/Program.cs">
+    <Files>
+      <File FileName="Day2/Program.cs" Line="132" Column="14" />
+      <File FileName="../../Documents/GitHub/rcs/CSharp/Day1/Day1/Program.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
